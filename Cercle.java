@@ -24,7 +24,7 @@ public class Cercle (){
                 ", rayon=" + rayon +
                 '}';
     }
-    //testttttt git commit 
+    //testttttt git commit feature
     public double getCentreX() {
         return centreX;
     }
